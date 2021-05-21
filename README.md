@@ -1,4 +1,4 @@
-# Automatic-oms
+# 👨‍🍳 Automatic-oms
 
 ##### An Order management webapp that greatly simplifies the ordering process for both the customer and the restaurant.
 
@@ -6,14 +6,14 @@
 
 Customer visits the ordering webpage, add items to their order, review the its details any time and when finished check out. This allows restaurant employees to quickly go through the orders as they are placed and produce the necessary items with minimal delay and confusion.
 
-## Features
+## 📈 Features
 
 1. To enable customers to have a visual confirmation that the order was placed correctly.
 2. Improve efficiency of restaurant’s staff.
 3. To increase efficiency by shortening the purchasing time and eliminating paper work like receipts through online transaction.
 4. To reduce time wasting by eliminating long queues. 
 
-## Technology Used:
+## 👨‍💻 Technology Used:
 
 * Client side Scripting: AngularJS, Typescript, JQuery
 * Libraries: Chart.js, Bootstrap, Materialize
@@ -22,7 +22,7 @@ Customer visits the ordering webpage, add items to their order, review the its d
 * Application Server: NodeJS, ExpressJS
 * Deployment: Heroku, Git
 
-## Screenshots
+## 📱 Screenshots
 
 #### Mobile Interface
 
