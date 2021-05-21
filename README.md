@@ -52,4 +52,8 @@ Customer visits the ordering webpage, add items to their order, review the its d
 
 <img src="/images/desktop3.JPG" title="Desktop Interface" >
 
+## License
 
+[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](/LICENSE)
+
+Copyright (c) 2021-present
